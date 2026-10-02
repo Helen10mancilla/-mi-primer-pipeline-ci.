@@ -9,7 +9,7 @@ jobs:
       name: Verificar codigo Python 
       runs-on: ubuntu-latest 
 
-steps: 
+ steps: 
   - name: Obtener codigo del repositorio 
     uses: actions/checkout@v4 
 
